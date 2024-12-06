@@ -113,4 +113,8 @@ Would you like me to provide detailed implementation steps for any specific phas
 4. UI wireframes for key features
 5. Specific microservice implementation details
 
-Let me know which aspect you'd like to explore first, and I'll provide more detailed guidance.
+Prompt used:
+Build an application for ancestry, better than ancestry.com. This should have all the features that all the ancestry type of application globally available and make those more user friendly. In addition, it should have a feature to print family history as pdf book or document using generative AI. Stories can be added in a CMS portal, and it would sequence the chapters. The book should have ability to add pictures. This should be able to upload GEDCOM compliant files. This should be a cloud native saas solution in aws. Provide step by step prompts to build this application, from documentation, architecture, create an environment in the macbook, list of microservices of features, building independent microservices feature by feature, create the UI for web and mobile, create a step-by-step deployment guide. consider I have never built an application and I am a non-tech person.
+
+
+
